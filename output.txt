@@ -1,0 +1,7 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Users\Lalit Chaudhari\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=60903:C:\Users\Lalit Chaudhari\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Lalit Chaudhari\OneDrive\Desktop\NIIT\Course3\Sprint5\c3_s5_pc2_Vehicle\out\production\c3_s5_pc2_Vehicle" com.vehicles.VehicleService
+Bike type is sportsBike its speed is 300km/h
+Bike{ Manufacturer name: Pulser,Model Name: Pulser220,Type: sportsBike}
+Car type is Sedan its speed is 170km/h
+Car{ Manufacturer name: Santro,Model Name: Santro123,Type: Sedan}
+
+Process finished with exit code 0
